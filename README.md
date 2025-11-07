@@ -9,8 +9,8 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arsh-wadhwa)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arshwadhwa.dev@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsh-wadhwa-8aa865207/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arshwadhwa.2006@gmail.com)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arsh_wadhwa)  
 
 ---
