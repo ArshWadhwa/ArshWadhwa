@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hey there! I'm **Arsh Wadhwa**, a passionate developer who loves building full-stack and AI-powered applications. <br>  
+# 💫 Hey there! I'm **Arsh Wadhwa**,
+👋  A passionate developer who loves building full-stack and AI-powered applications. <br>  
 🔭 I’m currently working on advanced **Spring Boot** and **React** projects, including AI automation platforms and café management systems. <br>  
 🤝 I love collaborating on **open-source** and innovative AI + automation ideas. <br>  
 🌱 Currently learning **LangChain**, **FastAPI**, and **cloud deployments (Docker + Kubernetes)**. <br>  
